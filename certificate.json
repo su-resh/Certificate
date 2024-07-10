@@ -1,10 +1,6 @@
 {
     "certificates": [
         {
-            "link": "https://github.com/su-resh/Certificate/blob/main/Cfc.webp?raw=true",
-            "description": "Web Development With Django"
-        },
-        {
             "link": "https://raw.githubusercontent.com/su-resh/Certificate/main/Firebase.webp",
             "description": "FireBase Training"
         },
@@ -79,6 +75,10 @@
         {
             "link": "https://github.com/su-resh/Certificate/blob/main/Project%20Charter.webp?raw=true",
             "description": "Create a Project Charter"
-        }
+        },
+         {
+            "link": "https://github.com/su-resh/Certificate/blob/main/Cfc.webp?raw=true",
+            "description": "Web Development With Django"
+        },
     ]
 }
