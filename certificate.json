@@ -8,7 +8,7 @@
             "link": "https://github.com/su-resh/Certificate/blob/main/GitHub%20Training.webp?raw=true",
             "description": "GitHub Training"
         },
-         {
+        {
             "link": "https://raw.githubusercontent.com/su-resh/Certificate/main/Foundation%20of%20CS.webp",
             "description": "Foundation of CyberSecurity"
         },
@@ -76,9 +76,9 @@
             "link": "https://github.com/su-resh/Certificate/blob/main/Project%20Charter.webp?raw=true",
             "description": "Create a Project Charter"
         },
-         {
+        {
             "link": "https://github.com/su-resh/Certificate/blob/main/Cfc.webp?raw=true",
             "description": "Web Development With Django"
-        },
+        }
     ]
 }
