@@ -1,7 +1,7 @@
 {
     "certificates": [
          {
-            "link": "https://raw.githubusercontent.com/su-resh/Certificate/main/introtodata.webp",
+            "link": "https://raw.githubusercontent.com/su-resh/Certificate/refs/heads/main/introtodata.webp",
             "description": "Introduction to Data Security"
         },
         {
@@ -17,7 +17,7 @@
             "description": "FireBase Training"
         },
         {
-            "link": "https://github.com/su-resh/Certificate/blob/main/GitHub%20Training.webp?raw=true",
+            "link": "https://raw.githubusercontent.com/su-resh/Certificate/refs/heads/main/GitHub%20Training.webp",
             "description": "GitHub Training"
         },
         {
