@@ -1,5 +1,17 @@
 {
     "certificates": [
+         {
+            "link": "https://raw.githubusercontent.com/su-resh/Certificate/main/AIfoundation.webp",
+            "description": "Introduction to Data Security"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/su-resh/Certificate/main/Internship.webp",
+            "description": "Flutter Internship"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/su-resh/Certificate/main/AIfoundation.webp",
+            "description": "AI Fundamentals"
+        },
         {
             "link": "https://raw.githubusercontent.com/su-resh/Certificate/main/Firebase.webp",
             "description": "FireBase Training"
